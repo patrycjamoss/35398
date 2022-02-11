@@ -3,10 +3,16 @@ section{
     height: 800px;
     width: 500px;
 }
-div{
+.kwadrat{
     margin-left: 5cm;
     height: 150px;
     width: 150px;
     background-color: black;
 }
-  
+  .kwadrat2{background-color: rgba(0,0,0,0.8);
+
+}
+  .kwadrat3{background-color: rgba(0,0,0,0.5);
+
+}
+  .kwadrat4{background-color: rgba(0,0,0,0.3);}
